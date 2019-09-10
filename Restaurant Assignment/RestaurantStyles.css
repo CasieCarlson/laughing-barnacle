@@ -1,0 +1,28 @@
+header, footer{
+  background-color: tan;
+font-family: sans-serif;
+color: saddlebrown;
+font-size: 1.5em;
+}
+body{
+  background-color: beige;
+  font-family: sans-serif;
+}
+hr{
+  border: thick solid red;
+}
+th{
+  font-size: 1.2em;
+}
+#RestaurantInfo{
+  background-color:darkseagreen;
+}
+nav a:visited {
+    color: purple;
+}
+nav a:hover{
+  font-weight:bold;
+}
+nav a:active{
+  text-decoration:none;
+}
